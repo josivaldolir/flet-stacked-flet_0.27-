@@ -12,7 +12,7 @@
 You can install Flet Stacked using pip:
 
 ```bash
-pip install git+https://github.com/omamkaz/flet-stacked.git
+pip install git+https://github.com/josivaldolir/flet-stacked-flet_0.27-.git
 ```
 
 ## Usage
